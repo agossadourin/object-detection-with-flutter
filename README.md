@@ -14,8 +14,8 @@ This Flutter project implements real-time object detection using the **Camera pl
 ## 🚀 Installation
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/your-username/object-detection-app.git
-cd object-detection-app
+git clone https://github.com/agossadourin/object-detection-with-flutter.git
+cd object-detection-with-flutter
 ```
 
 ### **Step 2: Install Dependencies**
@@ -67,14 +67,3 @@ dependencies:
 1. **Initialize Camera**: The app opens the device camera and streams images.
 2. **Image Processing**: Captures each frame and sends it to **ML Kit** for object detection.
 3. **Object Recognition**: Labels objects and displays them on-screen with confidence percentages.
-
-## 📜 License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-**Rahul Kumar Sahu**
-
-### 💡 Feel free to contribute! 🚀
-
-# object-detection-with-flutter
-# object-detection-with-flutter
